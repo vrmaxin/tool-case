@@ -5,3 +5,5 @@
 ## testIframe 模拟小屏幕的界面展示
 
 ## testTMap 天地图点击获取坐标列表
+
+## colorMap 颜色序列
